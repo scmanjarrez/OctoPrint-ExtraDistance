@@ -4,14 +4,14 @@ layout: plugin
 id: extradistance
 title: OctoPrint-ExtraDistance
 description: Extra axis movement distances
-author: ntoff
+author: ntoff, scmanjarrez
 license: AGPLv3
 
-date: 2017-12-02
+date: 2022-12-26
 
-homepage: https://github.com/ntoff/OctoPrint-ExtraDistance
-source: https://github.com/ntoff/OctoPrint-ExtraDistance
-archive: https://github.com/ntoff/OctoPrint-ExtraDistance/archive/master.zip
+homepage: https://github.com/scmanjarrez/OctoPrint-ExtraDistance
+source: https://github.com/scmanjarrez/OctoPrint-ExtraDistance
+archive: https://github.com/scmanjarrez/OctoPrint-ExtraDistance/archive/master.zip
 
 tags:
 - movement distance

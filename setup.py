@@ -1,22 +1,20 @@
 # coding=utf-8
 
-
 plugin_identifier = "extradistance"
 
 plugin_package = "octoprint_extradistance"
 
 plugin_name = "OctoPrint-ExtraDistance"
 
-plugin_version = "0.1.0"
+plugin_version = "0.1.1"
 
 plugin_description = """Adds extra movement distance buttons."""
 
-plugin_author = "ntoff"
+plugin_author = "ntoff, scmanjarrez"
 
 plugin_author_email = ""
 
-plugin_url = "https://github.com/ntoff/OctoPrint-ExtraDistance"
-
+plugin_url = "https://github.com/scmanjarrez/OctoPrint-ExtraDistance"
 
 plugin_license = "AGPLv3"
 
@@ -28,7 +26,7 @@ plugin_additional_packages = []
 
 plugin_ignored_packages = []
 
-additional_setup_parameters = {}
+additional_setup_parameters = {"python_requires": ">=3,<4"}
 
 from setuptools import setup
 

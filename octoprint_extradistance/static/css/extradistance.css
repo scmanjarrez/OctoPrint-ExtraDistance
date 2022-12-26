@@ -1,17 +1,18 @@
 #distance-selector {
-  width: 171px;
+    width: 185px;
 }
-#jog_distance {
-  width: 171px;
-  padding-left: 0px;
-  padding-bottom: 0px;
-  margin-left: 0px;
-  margin-bottom: 0px;
+
+[id^="jog_distance"] {
+    padding-left: 0px !important;
+    padding-bottom: 0px !important;
+    margin-left: 0px !important;
+    margin-bottom: 5px !important;
+    display: flex;
+    width: 94%;
 }
-#jog_distance2 {
-  width: 171px;
-  padding-top: 0px;
-  padding-left: 0px;
-  margin-top: 0px;
-  margin-left: 0px;
+
+.btnoed {
+    width: 43px;
+    padding-left: 5px;
+    padding-right: 5px;
 }
